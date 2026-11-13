@@ -1,0 +1,6 @@
+{
+  "name": "Naseef & Rizwin - Wedding Invitation",
+  "description": "A high-fashion, editorial wedding invitation website for Naseef Ashraf and Rizwin Rukiya in an Avelã White aesthetic, featuring all-caps Roman serif typography, minimalist sumi-e ink brush art, 3D envelope opening, and live countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
